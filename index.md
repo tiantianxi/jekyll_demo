@@ -4,13 +4,7 @@ title: Welcome
 ---
 
 ##Welcome小树林  
-----
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-## 
----
 ## LINUX
 
 
