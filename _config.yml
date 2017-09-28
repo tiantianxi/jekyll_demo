@@ -1,12 +1,11 @@
 # Site settings
 title: 小树林
-email: coolnameismy@hotmail.com
+email: hizhanghao@tom.com
 description: > #小树林
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.hizhanghao.com" # the base hostname & protocol for your site
-# url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
-twitter_username: coolnameismy@hotmail.com
-github_username:  coolnameismy
+twitter_username: 
+github_username: tiantianxi 
 
 # Build settings
 #markdown: kramdown
@@ -22,7 +21,7 @@ title: 小树林                         #自定义常量
 
 # avatar头像及Favicon
 avatar: http://hao.hizhanghao.com/tx.jpg
-#favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+favicon: http://hao.hizhanghao.com/qrcode.jpg 
 
 locals:                                     #自定义常量
   tags: 标签
@@ -39,9 +38,9 @@ markdown: kramdown                         #markdown解释器
 
 # baidu analytics 设置
 
-ba:
-  src: //hm.baidu.com/hm.js?22d94317cfb9f9e0bb476228d9f79278
+#ba:
+#  src: //hm.baidu.com/hm.js?22d94317cfb9f9e0bb476228d9f79278
 
 # disqus 设置
 disqus:
-  shortname: coolnameismy
+  shortname: tiantianxi
