@@ -6,7 +6,4 @@ title: Welcome
 ## Welcome
 ----
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
 ## linux
