@@ -15,5 +15,4 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
-![](assets/images/qrcode.jpg)
-
+http://hao.hizhanghao.com/qrcode.jpg
