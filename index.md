@@ -3,13 +3,13 @@ layout: post
 title: Welcome
 ---
 
-## 对博客的理解
+## Welcome
 ----
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
-## 博客中的技术类型
+## linux
 ---
 
 ![](assets/images/qrcode.jpg)
